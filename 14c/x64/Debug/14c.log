@@ -1,0 +1,3 @@
+﻿  14c.cpp
+E:\KOD\14c\14c\14c.cpp(239,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  14c.vcxproj -> E:\KOD\14c\x64\Debug\14c.exe
